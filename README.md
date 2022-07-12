@@ -14,7 +14,7 @@ Manipulating the DOM of Landing Page using javascript
 By using javascript, it's possible to add and remove sections to a landing page, as well as navigation throw the entire page.
 
 ## Live Preivew
-Check out the website [here](https://62cd464c6790ca6dd5e27a10--lively-begonia-8c82de.netlify.app/)
+Check out the website [github pages](https://amrbasiony97.github.io/dynamic_landing_page/) or [netlify](https://62cd464c6790ca6dd5e27a10--lively-begonia-8c82de.netlify.app/)
 
 ## Usage
 
